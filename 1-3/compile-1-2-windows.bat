@@ -1,12 +1,11 @@
 #----------------------------------------#
-# Compile-1-2.bat - A batch script
-# By Matthew Heusser M.Heusser@snhu.edu for CS630 at SNHU
+# Compile-1-3.bat - A batch script
 #
 # 
 #This code will compile your c++
-g++ CS630assignment-1-2main.cpp -o CS630-1-2.exe
+g++ 1-3convert.cpp -o CS630-1-3.exe
 #----------------------------------------#
 #Here's how to run your c++ under windows
-#CS630-1-2.exe
+#CS630-1-3.exe
 #
 #

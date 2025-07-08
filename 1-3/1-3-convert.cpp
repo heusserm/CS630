@@ -1,7 +1,8 @@
 //Christiel Podieu  - 6/18/2025
+//CS 210, May 2025
 //
-//A CS210 Assignment repurposed for CS630
-//Used with permission
+//Submitted for use in CS 630 by Matthew Heusser, July 2025
+//
 
 #include <iostream>
 #include <fstream>
