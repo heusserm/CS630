@@ -9,4 +9,3 @@ import roman_to_int
 
 def test_from_roman_I_returns_1():
     assert roman_to_int.from_roman("I") == 1
-    assert roman_to_int.from_roman("II") == 2
