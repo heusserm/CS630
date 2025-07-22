@@ -1,3 +1,6 @@
+#command_line_roman_to_int.py
+#An exploratory test harness for CS630, week 4, Assignment 1, SNHU
+#----------------------------------------------------------#
 
 
 from lib_roman_to_int import from_roman

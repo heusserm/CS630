@@ -1,6 +1,5 @@
 #lib_roman_to_int.py
 #A code library for CS630, week 4, Assignment 1, SNHU
-#By Matthew Heusser M.Heusser@snhu.edu Jun 2025
 #----------------------------------------------------------#
 # roman_to_int.py
 
