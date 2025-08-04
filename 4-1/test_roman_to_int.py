@@ -7,4 +7,4 @@
 from lib_roman_to_int import *
 
 def test_from_roman_I_returns_1():
-    assert roman_to_int.from_roman("I") == 1
+    assert from_roman("I") == 1
