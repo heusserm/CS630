@@ -29,6 +29,7 @@ def classify_triangle(a: float, b: float, c: float) -> str:
     if a <= 0 or b <= 0 or c <= 0:
         return "not a triangle"
 
+
     # Check triangle inequality
     if (a + b <= c) or (a + c <= b) or (b + c <= a):
         return "not a triangle"
