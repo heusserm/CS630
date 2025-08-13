@@ -23,8 +23,6 @@
 import requests
 import triangle
 
-ejfl;kwejfjfrhj
-
 BASE_URL = "http://localhost:5082/triangle"
 
 def test_get_equilateral():
