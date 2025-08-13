@@ -9,7 +9,6 @@
 #
 #----------------------------------------------------------#
 
-edekldledj
 
 def classify_triangle(a: float, b: float, c: float) -> str:
     """
